@@ -1,5 +1,7 @@
-### Hi there, I am Akash. 👋
-I've lived in Northern India for most of my life and have worked in Community Management domain for over 6 years.
+## Hi there, 
+### I am Akash. 👋
+
+I've lived in Northern India for most of my life and have worked in Community Management domain for over 6 years.  
 
 
   - 🆕 I am a new GitHub Community Manager and currently learning GitHub, Actions and basics of software development.
@@ -8,3 +10,4 @@ I've lived in Northern India for most of my life and have worked in Community Ma
   - 📧 Ask me anything about working in tech, change management, learning new things and develop a postitive mindset.
   - 📫 How to reach me: [Email](akash1134@github.com), [LinkedIn](https://www.linkedin.com/in/akash-sharma-ba0174143/), [Twitter](https://twitter.com/akashsharma113)
   - 🤠 Pronouns: he/him
+  - 
