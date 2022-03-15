@@ -1,0 +1,17 @@
+name: New release
+
+# trigeers the workflow when a tag is created
+on: 
+  create:
+    ref_type: tag
+    
+jobs:
+  release:
+    rune on: ubuntu-latest
+# sends slack notification that a job is starting
+    steps: 
+      - name: Job start slack notification
+        uses: actions/slack@v1
+        with:
+          status: 'START'
+        if: always()  
