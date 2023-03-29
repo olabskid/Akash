@@ -4,7 +4,7 @@
 I've lived in Northern India for most of my life and have worked in Community Management domain for over 6 years.  
 
 
-  - 🆕 I am a new GitHub Community Manager and currently learning GitHub, Actions and basics of software development.
+  - 🆕 I am a new GitHub Community Manager and currently learning GitHub, Actions, Copilot and software development.
   - 💡 I love creating content for community and work on multiple initiatives that help scale online communities.
   - 🤟 I'm looking to collaborate on basically anything related to GitHub. Be it content creation, Devops, Actions and seeking opputunities to learn more about emerging tech.
   - 📧 Ask me anything about working in tech, change management, learning new things and develop a postitive mindset.
